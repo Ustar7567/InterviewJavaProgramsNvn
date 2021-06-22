@@ -1,0 +1,40 @@
+https://youtu.be/2TsiBpac-Z0
+1 Java Program to Print an Integer (Entered by the User)
+2 Java Program to Add Two Integers
+3 Java Program to Multiply two Floating Point Numbers
+4 Java Program to Find ASCII Value of a character
+5 Java Program to Compute Quotient and Remainder
+6 Java Program to Swap Two Numbers
+7 Java Program to Check Whether a Number is Even or Odd
+8 Java Program to Check Whether an Alphabet is Vowel or Consonant
+9 Java Program to Find the Largest Among Three Numbers
+10 Java Program to Check Leap Year 
+
+1 Java Program to Check Whether a Number is Positive or Negative
+2 Java Program to Check Whether a Character is Alphabet or Not
+3 Java Program to Calculate the Sum of Natural Numbers
+4 Java Program to Find Factorial of a Number
+5 Java Program to Generate Multiplication Table
+6 Java Program to Display Fibonacci Series
+7 Java Program to Display Characters from A to Z using loop
+8 Java Program to Count Number of Digits in an Integer
+9 Java Program to Reverse a Number
+
+https://youtu.be/RUtExMqU2r0
+1 Java Program to Calculate the Power of a Number
+2 Java Program to Check Whether a Number is Palindrome or Not
+3 Java Program to Check Whether a Number is Prime or Not
+4 Java Program to Display Prime Numbers Between Two Intervals
+5 Java Program to Check Armstrong Number
+6 Java Program to Display Factors of a Number
+7 Java Program to Make a Simple Calculator Using switch...case
+
+https://youtu.be/TQkRz2QxdyI
+1 Java Program to Check Whether a Number can be Expressed as Sum of two Prime Numbers
+2 Java Program to Find the Sum of Natural Numbers using Recursion
+3 Java Program to Find Factorial of a Number Using Recursion
+
+https://youtu.be/1qt_0pZZwOg
+1 Java Program to Convert Binary Number to Decimal and vice-versa
+2 Java Program to Convert Octal Number to Decimal and vice-versa
+3 Java Program to Convert Binary Number to Octal and vice-versa
